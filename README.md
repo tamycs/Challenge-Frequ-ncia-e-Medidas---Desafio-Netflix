@@ -13,7 +13,7 @@ Os dados que deverão ser utilizado nesse script foram baixados do kaggle, e pod
 
 https://www.kaggle.com/code/shivamb/netflix-shows-and-movies-exploratory-analysis
 
- **Este repositório contém a minha execução e análise individual do desafio, onde explorei os dados de forma autônoma antes da integração do projeto.**
+ **Este repositório contém a minha execução e análise individual do desafio, onde explorei os dados de forma autônoma como parte de uma atividade prática em Squad "Katherine Johnson" no bootcamp. Posteriormente, as contribuiçoes do grupo foram consolidadas e apresentadas  em um único projeto final**
 
 ------------
 
