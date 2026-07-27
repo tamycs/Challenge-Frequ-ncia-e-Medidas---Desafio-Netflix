@@ -19,7 +19,7 @@ https://www.kaggle.com/code/shivamb/netflix-shows-and-movies-exploratory-analysi
 
 ## Tecnologias e Ferramentas
 
-** Linguagem: Python**
+**Linguagem: Python**
 - Biblioteca Pandas, Numpy, Matplotlib, Searborn
 - Google Colab
   
